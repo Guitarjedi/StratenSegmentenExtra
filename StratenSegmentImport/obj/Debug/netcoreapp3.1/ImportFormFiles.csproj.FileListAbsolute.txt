@@ -1,0 +1,14 @@
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\StratenSegmentImport\obj\Debug\netcoreapp3.1\ImportFormFiles.csprojAssemblyReference.cache
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\StratenSegmentImport\obj\Debug\netcoreapp3.1\ImportFormFiles.AssemblyInfoInputs.cache
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\StratenSegmentImport\obj\Debug\netcoreapp3.1\ImportFormFiles.AssemblyInfo.cs
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\StratenSegmentImport\bin\Debug\netcoreapp3.1\ImportFormFiles.exe
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\StratenSegmentImport\bin\Debug\netcoreapp3.1\ImportFormFiles.deps.json
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\StratenSegmentImport\bin\Debug\netcoreapp3.1\ImportFormFiles.runtimeconfig.json
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\StratenSegmentImport\bin\Debug\netcoreapp3.1\ImportFormFiles.runtimeconfig.dev.json
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\StratenSegmentImport\bin\Debug\netcoreapp3.1\ImportFormFiles.dll
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\StratenSegmentImport\bin\Debug\netcoreapp3.1\ImportFormFiles.pdb
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\StratenSegmentImport\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\StratenSegmentImport\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\StratenSegmentImport\obj\Debug\netcoreapp3.1\ImportFormFiles.csproj.CopyComplete
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\StratenSegmentImport\obj\Debug\netcoreapp3.1\ImportFormFiles.dll
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\StratenSegmentImport\obj\Debug\netcoreapp3.1\ImportFormFiles.pdb

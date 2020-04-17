@@ -1,0 +1,22 @@
+VRAGEN
+======
+
+1. 	Bij inlezen van de data (in WRDataReader.cs) blijft hij heel lang bezig met de functie GetSegmentenByKnoop(Knoop k)
+	Ik werk met een List en een niet zo performante zoekcode.
+	Hoe kan dit beter? Ik dacht aan een Dictionary<Knoop,Segment>,
+	maar door het feit dat er een beginknoop en een eindknoop die soms gelijk zijn, kan dit niet werken.
+
+2. 	Is het ok om op de database te steunen (FK en PK) om dubbele data te weren?
+	Of moet de applicatie die gewoon niet doorsturen?
+	Database selectie werkt overal behalve bij de tabel KnoopId_SegmentId, hoe komt dit?
+	
+	
+3.	Wat is het nut van de klasse Graaf? Waarom geen Dictionary<Knoop,List<Segment>> in de klasse Straat?
+	Bevat de 1e knoop van de straat ook het wegsegment dat deel is van de vorige straat? 
+	Bevat de laatste knoop van de straat ook het wegsegment dat deel is van de volgende straat? 
+	De value van een Knoop bestaat dus uit minstens 1 en maximum 2 segment-elementen?
+
+4.	Bevat de property Vertices in de klasse Segment ook de begin en de eindknoop? Zo ja, waarom deze dan nog eens apart als property?
+
+5.	Er zijn straatIds die wel in de tabel gemeenteId_straatId staan, maar niet in de tabel van straatnamen.
+	Moeten die toch worden opgeslaan in de database of zijn die van geen belang?

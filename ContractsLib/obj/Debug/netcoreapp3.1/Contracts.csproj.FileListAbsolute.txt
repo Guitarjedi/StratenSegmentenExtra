@@ -1,0 +1,8 @@
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\ContractsLib\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\ContractsLib\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\ContractsLib\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\ContractsLib\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\ContractsLib\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\ContractsLib\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\ContractsLib\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\Matthijs\source\repos\StratenSegmentenReDo\ContractsLib\obj\Debug\netcoreapp3.1\Contracts.pdb
