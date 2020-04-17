@@ -1,0 +1,1242 @@
+Aantal straten per provincie: 
+  -Antwerpen: 20133
+  -Vlaams-Brabant: 14792
+  -West-Vlaanderen: 18166
+  -Oost-Vlaanderen: 18673
+  -Limburg: 12524
+
+StraatInfo Antwerpen: 
+     -Aartselaar: 123 straten ||  71597,54147964575
+                 +174519, Gebr. vander Elstlaan, 64,37114028076543
+                 +15, Boomsesteenweg, 6185,226379036365
+
+     -Antwerpen: 3360 straten ||  1633081,0988175848
+                +185238, Stationsplantsoen, 2,9906542686557467
+                +2537, Scheldelaan, 58568,55420094369
+
+     -Arendonk: 146 straten ||  153810,28018989938
+               +200264, Priorshufke, 59,29066296583337
+               +12437, De Lusthoven, 12371,390880257895
+
+     -Baarle-Hertog: 67 straten ||  26275,21825865308
+                    +12582, Prinsenstraat, 12,357310591255205
+                    +12575, Oordeelstraat, 1551,564422929348
+
+     -Balen: 378 straten ||  315810,85477612575
+            +12806, Musstraat, 65,49243633417395
+            +12865, Schoorheide, 4470,499575460204
+
+     -Beerse: 262 straten ||  170360,12370718323
+             +13011, Gemeenteplein, 44,389045054216425
+             +12964, Antwerpseweg, 6315,4251739820365
+
+     -Berlaar: 123 straten ||  104230,51804737531
+              +8911, Lambertusplaats, 31,219277497662723
+              +8944, Smidstraat, 7630,102724529738
+
+     -Boechout: 167 straten ||  107239,84162453028
+               +3378, Eugeen De Ridderstraat, 61,87013107625596
+               +3464, Provinciesteenweg, 8584,30454454164
+
+     -Bonheiden: 217 straten ||  149851,69805291787
+                +9095, Molenberg, 30,038095156785108
+                +9104, Oude Baan, 4809,90284598993
+
+     -Boom: 158 straten ||  73548,35475484733
+           +3634, Prawiel, 36,6167019811077
+           +3538, Antwerpsestraat, 4738,5754586245475
+
+     -Bornem: 234 straten ||  186284,48827143628
+             +180732, Van Bruysselstraat, 37,904477956740465
+             +9353, Rijksweg, 17249,07884867954
+
+     -Borsbeek: 78 straten ||  37467,70356636847
+               +144829, Koude Beeklaan, 68,09584813063893
+               +3699, Frans Beirenslaan, 3895,6780862771866
+
+     -Brasschaat: 324 straten ||  241443,30949826236
+                 +145604, Varendreef, 26,433664989852897
+                 +3776, Bredabaan, 12792,245674396288
+
+     -Brecht: 482 straten ||  339548,9867816378
+             +156400, Pijnboomdreef, 53,88224189446742
+             +4389, Tilburgbaan, 7940,652831220225
+
+     -Dessel: 156 straten ||  113012,99751836783
+             +13315, Ruitenstraat, 43,963787836262654
+             +13325, Turkeiestraat, 3782,7352730038074
+
+     -Duffel: 156 straten ||  117071,70690689312
+             +9491, Neervelden, 61,86787716100789
+             +9499, Oude Liersebaan, 5244,192444592824
+
+     -Edegem: 205 straten ||  84202,56366064276
+             +4534, Kruisbeemd, 42,01355425268359
+             +4586, Prins Boudewijnlaan, 6612,357157423892
+
+     -Essen: 257 straten ||  210303,0414900448
+            +156913, Gerard Meeusenstraat, 10,318967709391808
+            +4768, Moerkantsebaan, 5863,326755703435
+
+     -Geel: 502 straten ||  497872,07914619724
+           +13527, Hertenstraat, 12,136338496472657
+           +140326, Westelijke Ring, 8522,783546371462
+
+     -Grobbendonk: 247 straten ||  145792,02615527896
+                  +13998, Kiezelweg, 55,46836472375703
+                  +13985, Jagersdreef, 15273,63128113515
+
+     -Heist-op-den-Berg: 563 straten ||  438324,94269274274
+                        +146045, Koud Halzen, 40,51368055180018
+                        +9829, Liersesteenweg, 8644,76162527017
+
+     -Hemiksem: 104 straten ||  34825,02518143509
+               +144158, Rupske Lauwerslaan, 44,536209368167874
+               +4953, U.N.O.-Laan, 1514,513773007427
+
+     -Herentals: 383 straten ||  271143,65543456597
+                +14255, Ieperstraat, 37,92518380252358
+                +14257, Jagersdreef, 16612,209056454343
+
+     -Herenthout: 99 straten ||  100113,23271032194
+                 +140252, Klein Blokt, 29,154130253240112
+                 +14503, Heikant, 7077,982132459937
+
+     -Herselt: 174 straten ||  239579,08702272328
+              +14638, Liersesteenweg, 20,91265826765043
+              +14591, Diestsebaan, 6286,366923877637
+
+     -Hoogstraten: 295 straten ||  353235,8654262879
+                  +14938, Vredeboomstraat, 71,56266646059198
+                  +14768, Groot Eyssel, 8897,791572949513
+
+     -Hove: 106 straten ||  45723,02563499568
+           +5032, Neckersbeemd, 66,23096678976029
+           +5021, Lintsesteenweg, 4266,9323457829905
+
+     -Hulshout: 166 straten ||  96712,68242486636
+               +140219, Houtvensesteenweg, 7,860502558234682
+               +14994, Grote Baan, 4149,941107822926
+
+     -Kalmthout: 269 straten ||  199604,75576030248
+                +180981, Theeuwstraat, 52,20900447483146
+                +5096, Brasschaatsteenweg, 4347,118284558751
+
+     -Kapellen: 309 straten ||  194760,80698021414
+               +146528, Dorpsplein, 38,658174996587725
+               +5435, Kalmthoutsesteenweg, 5089,335294586002
+
+     -Kasterlee: 391 straten ||  324156,401475183
+                +190269, Koolstraat, 49,73698974365976
+                +181697, Noord-Zuidlaan, 7202,288121172431
+
+     -Kontich: 220 straten ||  135925,75272269305
+              +5796, Varkensmarkt, 35,53523644377383
+              +5753, Pierstraat, 5797,99215742053
+
+     -Laakdal: 221 straten ||  185557,32479790598
+              +140322, Huisbroek, 5,665987026733603
+              +18524, Nieuwe Baan, 4816,392856020726
+
+     -Lier: 360 straten ||  266918,03610393446
+           +10235, Martienushoek, 41,09154096680084
+           +10172, Jagersdreef, 22693,778258518465
+
+     -Lille: 291 straten ||  284118,10939503444
+            +15355, Binnenhof, 54,49238905736125
+            +15371, Broekzijstraat, 5929,08579801816
+
+     -Lint: 94 straten ||  41509,17298733089
+           +140398, Beukenlaan, 20,04762574700257
+           +5864, Liersesteenweg, 2620,983912159963
+
+     -Malle: 221 straten ||  174037,96015628727
+            +8727, Hooiberg, 74,31023424764533
+            +8653, Antwerpsesteenweg, 11226,144364225414
+
+     -Mechelen: 814 straten ||  405945,3901443598
+               +10954, Schoenmarkt, 19,480684802868723
+               +140446, Vrijbroekpark, 10581,217435333094
+
+     -Meerhout: 203 straten ||  167072,6104491564
+               +15635, Eindeke, 68,92959090056885
+               +15682, Kiezel, 5071,14085288603
+
+     -Merksplas: 174 straten ||  153825,31701190968
+                +15813, Doelenplein, 41,08918700356125
+                +15883, Molenzijdse Heide, 7311,039796462461
+
+     -Mol: 518 straten ||  422875,72224964784
+          +16252, Moutierlaan, 50,12407915052842
+          +16423, Zuiderring, 23236,753303905953
+
+     -Mortsel: 164 straten ||  83596,53621537928
+              +5929, Dorpsstraat, 54,07198452740381
+              +5985, Liersesteenweg, 5760,283163758966
+
+     -Niel: 105 straten ||  35233,01213970703
+           +6089, Fabrieksstraat, 26,876723910829416
+           +6078, Boomsestraat, 1913,0419213099888
+
+     -Nijlen: 258 straten ||  193731,2906082243
+             +11350, Reigerslaan, 58,938759113931546
+             +11394, Vogelzangstraat, 5258,286323323227
+
+     -Olen: 219 straten ||  136470,38176683843
+           +16510, Leliestraat, 66,83152014688822
+           +16461, Geelseweg, 4971,668487066609
+
+     -Oud-Turnhout: 236 straten ||  181048,4450689607
+                   +143652, Pastoor Kruyfhooftstraat, 54,17667344947428
+                   +16596, Arselt, 6144,01288981345
+
+     -Putte: 241 straten ||  191314,47823958853
+            +11491, Hoekstraat, 45,1218363172289
+            +11534, Mechelbaan, 11410,53777830288
+
+     †  Puurs werd gefuseerd in 2019  †
+
+     -Puurs-Sint-Amands: 299 straten ||  245108,64128404367
+                        +204784, Schommeling, 32,405128794518404
+                        +204767, Rijksweg, 15822,45414515017
+
+     -Ranst: 253 straten ||  186096,46695375658
+            +6302, Patrijzenlaan, 41,86908876703339
+            +6310, Ranstsesteenweg, 4494,273820420285
+
+     -Ravels: 214 straten ||  236171,8611673455
+             +16980, St.-Jansstraat, 96,11109022289253
+             +16996, Tulderheyde, 8740,17923256451
+
+     -Retie: 232 straten ||  168162,09511110146
+            +185473, Mollenpijp, 41,16855504089472
+            +17072, Geelsebaan, 5143,799138949137
+
+     -Rijkevorsel: 222 straten ||  152080,4128919506
+                  +195072, Oude Molenpad, 53,912601166489935
+                  +17346, Oostmalsesteenweg, 3391,452474240372
+
+     -Rumst: 176 straten ||  103575,1535244564
+            +6550, Vorft, 43,95434074523797
+            +6389, Antwerpsesteenweg, 4291,621442763769
+
+     -Schelle: 113 straten ||  47062,42519955839
+              +144854, Poortelei, 7,5603033225961305
+              +6630, Steenwinkelstraat, 2984,9901806431326
+
+     -Schilde: 291 straten ||  211475,8366979073
+              +140543, Kantonbaan, 28,824057896734793
+              +6894, Turnhoutsebaan, 11527,699513540965
+
+     -Schoten: 360 straten ||  215923,82586449743
+              +7247, Zagerijstraat, 35,03053599614558
+              +7234, Vordensteinstraat, 8127,747185565936
+
+     †  Sint-Amands werd gefuseerd in 2019  †
+
+     -Sint-Katelijne-Waver: 237 straten ||  180197,9205941555
+                           +12085, Smalleweg, 58,79026903381194
+                           +11912, Berlaarbaan, 9456,121685688924
+
+     -Stabroek: 155 straten ||  90389,48517669384
+               +7337, Magnolialaan, 44,549718608660726
+               +7351, Oud Broek, 3378,824692958806
+
+     -Turnhout: 404 straten ||  244481,7846492481
+               +181165, Tweetorentjesplein, 34,04580784706633
+               +17658, Parklaan, 7057,161829029529
+
+     -Vorselaar: 105 straten ||  87137,59726437794
+                +17866, Van Arenberglaan, 49,989189199229116
+                +17814, Heirbaan, 6549,5535524509805
+
+     -Vosselaar: 178 straten ||  86810,96530036168
+                +18015, Torenlaan, 17,382262124399492
+                +17882, Antwerpsesteenweg, 3650,0466906429087
+
+     -Westerlo: 415 straten ||  288015,11603985867
+               +142325, Sint-Antoniuspleintje, 51,26085207303058
+               +18286, Olenseweg, 6437,852081784917
+
+     -Wijnegem: 95 straten ||  67243,84360581907
+               +165610, Wervehof, 7,842959901271057
+               +7427, Houtlaan, 8580,75454509383
+
+     -Willebroek: 318 straten ||  161465,6966468836
+                 +12228, Hoge Heide, 14,428461035281702
+                 +12268, Koning Boudewijnlaan, 6514,745203269761
+
+     -Wommelgem: 151 straten ||  82223,71834281662
+                +140175, Meuleveld, 27,318035200079155
+                +7518, Herentalsebaan, 7564,385049825817
+
+     -Wuustwezel: 389 straten ||  334318,4163237059
+                 +7720, Gooreindbaan, 18,121993952618695
+                 +7658, Bredabaan, 12019,310418023108
+
+     -Zandhoven: 210 straten ||  199864,15578003824
+                +140220, Halle Velden, 14,087603134538321
+                +8081, Jagerslaan, 15663,91758132185
+
+     -Zoersel: 313 straten ||  214160,22840675229
+              +190013, Klaverpad, 61,213770832442194
+              +8423, Raymond Delbekestraat, 4455,738939589537
+
+     -Zwijndrecht: 163 straten ||  96139,45490994654
+                  +142688, Binnenplein, 45,59300650076684
+                  +8573, Krijgsbaan, 4894,011750424384
+
+StraatInfo Vlaams-Brabant: 
+     -Aarschot: 443 straten ||  341469,7346365711
+               +140726, De Kluis, 33,75021240046345
+               +31768, Oude Mechelsebaan, 6730,782320424555
+
+     -Affligem: 149 straten ||  102639,58566217581
+               +31489, Zwijnweg, 51,50234873524427
+               +31380, Brusselbaan, 5037,746352047074
+
+     -Asse: 374 straten ||  234460,72964473895
+           +24184, Berkstraat, 27,947044325377973
+           +24207, Brusselsesteenweg, 10883,54810816379
+
+     -Beersel: 374 straten ||  216039,43185702196
+              +24617, Fazantenweg, 29,21950652907704
+              +24853, Vaartweg, 4627,322749735764
+
+     -Begijnendijk: 107 straten ||  95362,50755610422
+                   +31915, Corn. Vissenaekensplein, 107,6733341826675
+                   +31946, Liersesteenweg, 4723,54179941985
+
+     -Bekkevoort: 88 straten ||  123928,71186146006
+                 +141003, Eindstraat, 41,71143138768598
+                 +32068, Staatsbaan, 13555,132698560064
+
+     -Bertem: 151 straten ||  93799,73659342786
+             +32223, Zwanenpoel, 30,287854142268223
+             +32204, Tervuursesteenweg, 9312,041300600902
+
+     -Bever: 22 straten ||  60076,749655749314
+            +144791, Rue Manhove, 49,21518096129052
+            +24891, Akrenbos, 10817,797648377202
+
+     -Bierbeek: 154 straten ||  144909,54706207116
+               +216562, Heermoesstraat, 48,72299018143457
+               +32335, Tiensesteenweg, 7262,181558064225
+
+     -Boortmeerbeek: 190 straten ||  108306,52330835565
+                    +181390, Kroonprinses Elisabethstraat, 14,340823226230595
+                    +32446, Leuvensesteenweg, 6207,765472107534
+
+     -Boutersem: 115 straten ||  96593,73442484345
+                +144557, Camerveld, 4,367191315381064
+                +32592, Leuvensesteenweg, 5529,859625599877
+
+     -Diest: 357 straten ||  259386,59171591446
+            +32782, Keelstraat, 22,955221858093104
+            +32742, Hasseltsebaan, 4501,301395594305
+
+     -Dilbeek: 498 straten ||  278372,164493917
+              +24966, Brusselsesteenweg, 19,093622505563392
+              +25212, Ninoofsesteenweg, 13517,199169185536
+
+     -Drogenbos: 46 straten ||  22097,922480345896
+                +30401, Korte Linkebeekstraat, 31,66941784787715
+                +30394, Grote Baan, 2693,85291211537
+
+     -Galmaarden: 109 straten ||  114737,41186729957
+                 +139911, Werfketse, 33,178384350618934
+                 +25447, Ninoofsesteenweg, 4540,363029846684
+
+     -Geetbets: 71 straten ||  94687,16917716562
+               +140999, Spreeuwsteeg, 34,237611370247016
+               +32988, Glabbeekstraat, 4567,031158659034
+
+     -Glabbeek: 87 straten ||  85580,67456332567
+               +37681, Ovenweg, 72,02275402739829
+               +37698, Tiensesteenweg, 8285,680909456662
+
+     -Gooik: 145 straten ||  138920,23113869134
+            +139991, De Motte, 25,281181655019306
+            +25573, Ninoofse Steenweg, 6847,251771501105
+
+     -Grimbergen: 390 straten ||  208473,1549793799
+                 +181015, Brassershof, 29,321003156873353
+                 +25987, Westvaartdijk, 5981,669219266103
+
+     -Haacht: 204 straten ||  158917,77846486037
+             +33139, Lipseweg, 54,00396681268698
+             +33220, Wijgmaalsesteenweg, 5617,205125327196
+
+     -Halle: 447 straten ||  250274,58629446852
+            +26293, Pioenenlaan, 8,59469455145776
+            +26028, Bergensesteenweg, 5500,9156694747
+
+     -Herent: 254 straten ||  180004,7555643379
+             +183092, Bukenstraat, 23,971925883041052
+             +33362, Mechelsesteenweg, 9175,410704920156
+
+     -Herne: 117 straten ||  141439,14615669003
+            +139875, Poefketse, 78,74178489824446
+            +26522, Steenweg Asse, 7240,235653488897
+
+     -Hoegaarden: 104 straten ||  97937,23031292939
+                 +140955, Kapitalenveldstraat, 30,93210253372487
+                 +33501, Hauthem, 6504,36966723462
+
+     -Hoeilaart: 188 straten ||  119368,13346009412
+                +181693, Fernaasstraat, 46,578010083390545
+                +26651, Sint Jansberglaan, 8842,593550397061
+
+     -Holsbeek: 172 straten ||  152955,3695233481
+               +33689, Ramselberg, 14,95631361482801
+               +33630, Houwaartsebaan, 4639,488058436745
+
+     -Huldenberg: 142 straten ||  136731,52333914535
+                 +181153, Lily Boeykensstraat, 37,32086481074507
+                 +33814, Leuvensebaan, 7141,821942766224
+
+     -Kampenhout: 255 straten ||  181635,5694619659
+                 +26725, Drieswegel, 33,182109486670896
+                 +26746, Haachtsesteenweg, 17097,378136609746
+
+     -Kapelle-op-den-Bos: 137 straten ||  76259,52417981002
+                         +26916, Diepestraat, 20,128380683429
+                         +26984, Paddegatstraat, 3028,0284591216287
+
+     -Keerbergen: 172 straten ||  129366,06413830906
+                 +33883, Bosuilweg, 27,94925221711861
+                 +34009, Tremelobaan, 4878,789159089372
+
+     -Kortenaken: 127 straten ||  143386,05046013012
+                 +34081, Krawatenstraat_02, 113,16579766136418
+                 +34055, Heerbaan, 5111,455517913418
+
+     -Kortenberg: 241 straten ||  144376,2110773926
+                 +34175, Craenenplein, 34,38813451134746
+                 +34280, Leuvensesteenweg, 8089,251084496396
+
+     -Kraainem: 170 straten ||  66518,75901690342
+               +30534, Oude Baan, 27,885024204532396
+               +30428, Baron Albert d'Huartlaan, 4440,650217266484
+
+     -Landen: 242 straten ||  159756,87285119604
+             +34446, Gendarmerieplein, 26,00975433963047
+             +34460, Hannuitsesteenweg, 5070,8163601090255
+
+     -Lennik: 171 straten ||  143108,08493568434
+             +178666, Kleine Cottemstraat, 70,73343394904603
+             +31303, Ninoofsesteenweg, 5297,6134667052465
+
+     -Leuven: 1048 straten ||  516622,297398575
+             +34870, Haaggang, 5,1267886711811785
+             +34606, Aarschotsesteenweg, 7115,8824371225655
+
+     -Liedekerke: 143 straten ||  65085,2243260552
+                 +27108, Monniksplein, 20,088545498288006
+                 +27036, Affligemsestraat, 2992,212344853728
+
+     -Linkebeek: 71 straten ||  32239,16694628689
+                +163383, Anjou Square, 11,58728117374454
+                +30616, Hollebeekstraat, 2125,5953849692683
+
+     -Linter: 108 straten ||  103901,0619463032
+             +37112, Boomgaardstraat, 45,55964618907529
+             +37189, Sint-Truidensesteenweg, 6830,016556902179
+
+     -Londerzeel: 201 straten ||  179935,42205132288
+                 +27266, Lode Meeusplein, 10,216842348523059
+                 +27166, Autostrade, 6381,120189600393
+
+     -Lubbeek: 268 straten ||  203905,57555193797
+              +147041, O.L.-Vrouwstraat, 9,913010557170445
+              +35779, Staatsbaan, 9167,376338953676
+
+     -Machelen: 179 straten ||  99528,19458689608
+               +140073, Sint-Martinuslaan, 29,445010469723456
+               +27498, Woluwelaan, 9378,592970143052
+
+     -Meise: 294 straten ||  179217,5919098441
+            +27699, Pater Pirelaan, 45,279198796545344
+            +27619, Kapellelaan, 4616,617021665855
+
+     -Merchtem: 161 straten ||  160976,05316277084
+               +193899, Kwetstenbeek, 24,688502697528325
+               +27800, Brusselsesteenweg, 8649,770746476197
+
+     -Opwijk: 137 straten ||  102456,3710625252
+             +213635, Mandemakersweg, 66,65744128942886
+             +28021, Steenweg op Vilvoorde, 3689,0877782993107
+
+     -Oud-Heverlee: 178 straten ||  130893,29871510029
+                   +140596, Parnassusbergdreef, 6,660368415193254
+                   +140595, Expresweg, 4745,650358407672
+
+     -Overijse: 385 straten ||  239274,75434720973
+               +28121, Flamingohof, 40,36205563306175
+               +28354, Terhulpensesteenweg, 5430,663827696579
+
+     -Pepingen: 105 straten ||  106122,59239912653
+               +144799, Hameau de Trop, 10,08196855993984
+               +28483, Ninoofsesteenweg, 6303,488645407345
+
+     -Roosdaal: 191 straten ||  110291,35770927095
+               +30360, Vierdeelsweg, 45,64871768917759
+               +30312, Ninoofsesteenweg, 5710,000053912599
+
+     -Rotselaar: 254 straten ||  210305,1745166824
+                +155109, Klein-Vlasselaar, 65,40066914187284
+                +147228, Autosnelweg E314, 6890,738073508984
+
+     -Scherpenheuvel-Zichem: 294 straten ||  243441,29917697693
+                            +37427, Spreeuwstraat, 43,6700573779739
+                            +37264, Frans Smeyersstraat, 4107,836753183348
+
+     -Sint-Genesius-Rode: 243 straten ||  139059,03487768257
+                         +30779, Kwadelindekensweg, 19,73343020197168
+                         +30885, Waterloose Steenweg, 4978,747378831539
+
+     -Sint-Pieters-Leeuw: 355 straten ||  221053,36522761444
+                         +189678, Dovenetelweg, 31,768769666364662
+                         +28529, Bergensesteenweg, 12059,441993827058
+
+     -Steenokkerzeel: 227 straten ||  121948,67146679212
+                     +140051, Begoniaplein, 45,91892214751486
+                     +28882, Haachtsesteenweg, 9813,557366896313
+
+     -Ternat: 184 straten ||  129370,5073204923
+             +29109, Morettestraat, 25,901574229643447
+             +29008, Assesteenweg, 7250,995618120784
+
+     -Tervuren: 335 straten ||  211317,63419594715
+               +36382, Roodborstjeslaan, 26,324085828170354
+               +36412, Tervurenlaan, 6386,5523979416685
+
+     -Tielt-Winge: 146 straten ||  176422,0887807779
+                  +182955, Perkveld, 68,9391150242009
+                  +37559, Leuvensesteenweg, 8119,823423496707
+
+     -Tienen: 537 straten ||  367166,42113855085
+             +182383, Residentie Hageland, 6,0760461147002145
+             +36456, Aarschotsesteenweg, 5421,193242777454
+
+     -Tremelo: 162 straten ||  142785,6990120407
+              +140693, Preterstraat, 40,178392673012446
+              +36979, Veldonkstraat, 7003,780864973954
+
+     -Vilvoorde: 405 straten ||  189731,93396968328
+                +29288, Hazegras, 28,340556522237186
+                +29553, Woluwelaan, 7944,1656185998145
+
+     -Wemmel: 141 straten ||  64098,684212524415
+             +30914, Brabants Dalplein, 28,587147240043983
+             +31016, Steenweg op Brussel, 2177,362746759733
+
+     -Wezembeek-Oppem: 163 straten ||  72122,1620586667
+                      +31182, Wezembeekstraat, 10,694759326415653
+                      +31130, Mechelsesteenweg, 2623,043150093374
+
+     -Zaventem: 358 straten ||  219820,49120384792
+               +29899, Wulpenhof, 37,04238134388319
+               +29738, Leuvensesteenweg, 13506,606691768904
+
+     -Zemst: 351 straten ||  230053,26160569934
+            +30143, Tijmvoetweg, 20,68946716176086
+            +30141, Tervuursesteenweg, 7068,544506732616
+
+     -Zoutleeuw: 155 straten ||  156553,6019651404
+                +37099, Waaiberg, 7,205801277387401
+                +37020, Grote Steenweg, 6754,0466046029605
+
+StraatInfo West-Vlaanderen: 
+     -Alveringem: 113 straten ||  192507,6756136447
+                 +179092, Pastoor Copinplein, 57,747324231524644
+                 +60146, Lindestraat, 8362,74042685653
+
+     -Anzegem: 280 straten ||  213169,13580799702
+              +146684, Groeningeplein, 48,99429964223879
+              +51065, Grote Leiestraat, 4421,572111141539
+
+     -Ardooie: 192 straten ||  165962,88760103763
+              +59969, Jasmijnenstraat, 51,096759185379156
+              +60043, Roeselaarsestraat, 3982,906907867146
+
+     -Avelgem: 139 straten ||  101104,69293209155
+              +141402, Kanaalweg, 58,444514319276024
+              +51331, Oudenaardsesteenweg, 6777,586354506544
+
+     -Beernem: 271 straten ||  286769,49959849444
+              +44380, Anjelierenstraat, 34,59186976440522
+              +44538, Reigerlostraat, 8386,94088094026
+
+     -Blankenberge: 245 straten ||  103310,90412547797
+                   +44761, P. Gielisstraat, 47,774582366695284
+                   +44705, Koning Albert-I-laan, 4558,43227296792
+
+     -Bredene: 216 straten ||  101989,47728586485
+              +54713, Duivenkeetstraat, 6,460995759513074
+              +54764, Koninklijke Baan, 7476,355690737058
+
+     -Brugge: 1524 straten ||  863011,0883824463
+             +45895, Rozemarijnstraat, 7,384927370468809
+             +45157, Expresweg, 22929,767596168436
+
+     -Damme: 250 straten ||  302795,76081715425
+            +46527, Zomerstraat-West, 8,079361318398982
+            +46410, Natiënlaan, 19289,140116169718
+
+     -De Haan: 311 straten ||  163644,0321226176
+              +56646, Lindenhof, 10,075565743933874
+              +56633, Koninklijke Baan, 8011,798972635947
+
+     -De Panne: 186 straten ||  119992,0412742278
+               +60300, Landbouwersstraat, 7,037491117767778
+               +60236, Duinhoekstraat, 5587,0516819113045
+
+     -Deerlijk: 196 straten ||  114817,3386106932
+               +141379, Mosschardstraat, 5,534738489363536
+               +141380, Ringlaan, 6286,3544054776585
+
+     -Dentergem: 116 straten ||  113494,40336810278
+                +145487, Sanderusplein, 56,90637435040223
+                +58723, Tieltseweg, 4785,974029031145
+
+     -Diksmuide: 372 straten ||  389005,70985590963
+                +48745, Vrijheidsplein, 24,249175330375312
+                +48452, Ijzerdijk, 20906,563425480545
+
+     -Gistel: 205 straten ||  154162,4060625834
+             +54984, Moerdijkstraat, 1,9084915527069306
+             +55000, Oostendse Baan, 7060,328084037231
+
+     -Harelbeke: 338 straten ||  200641,26528644524
+                +194956, Veldovenstraat, 41,524176980196934
+                +184119, Jaagpad, 6332,101443446562
+
+     -Heuvelland: 235 straten ||  329148,39406284655
+                 +50740, Pannestraat, 75,22188430101566
+                 +50674, Kemmelstraat, 7451,806168731051
+
+     -Hooglede: 135 straten ||  149746,567255795
+               +181472, Priamusplein, 43,409347753003324
+               +56813, Bruggesteenweg, 8272,335300438417
+
+     -Houthulst: 173 straten ||  205614,70280949897
+                +141439, Ketsedijk, 55,222372678262765
+                +48809, Bosdreef, 17289,65913569337
+
+     -Ichtegem: 193 straten ||  166707,51586998953
+               +55099, Eernegem-Markt, 37,89304920979552
+               +55183, Oostendesteenweg, 6152,967160122732
+
+     -Ieper: 557 straten ||  534228,78543209
+            +198527, Majoorpad, 24,86596838801234
+            +49601, Noorderring, 17518,912588447536
+
+     -Ingelmunster: 172 straten ||  104929,62111533369
+                   +57052, Walbrugstraat, 23,567723761648878
+                   +56986, Krekelstraat, 4967,93395398745
+
+     -Izegem: 338 straten ||  207175,22237799625
+             +181841, Meidoornstraat, 31,974534464658223
+             +57291, Rijksweg, 5595,26190018447
+
+     -Jabbeke: 223 straten ||  210017,53816416304
+              +156459, Krakkestraat, 15,785659094000147
+              +46577, Gistelsteenweg, 11648,683040437183
+
+     -Knokke-Heist: 618 straten ||  321544,31291293097
+                   +184802, Zandhaver, 23,926940767715056
+                   +48078, Natiënlaan, 11546,77925776167
+
+     -Koekelare: 167 straten ||  145128,50198287965
+                +49020, Molenplein, 36,676568516183444
+                +49042, Provinciebaan, 4685,739492728923
+
+     -Koksijde: 612 straten ||  286937,17371399066
+               +60454, Cactuslaan, 15,504275629945335
+               +60673, Koninklijke Baan, 9083,93760324545
+
+     -Kortemark: 160 straten ||  199218,75073261242
+                +141411, Renaat Desmedtstraat, 6,089248638959567
+                +49193, Staatsbaan, 9152,172369664662
+
+     -Kortrijk: 1207 straten ||  616525,5268900596
+               +52535, Pater Vandeputteplein, 24,162346263180453
+               +52036, Doornikserijksweg, 9510,272044617706
+
+     -Kuurne: 203 straten ||  84930,3188775196
+             +53007, Morinenstraat, 39,17348826322001
+             +52918, Brugsesteenweg, 3893,8644443697917
+
+     -Langemark-Poelkapelle: 103 straten ||  166453,78960610754
+                            +216301, Populierenhof, 59,72918739345876
+                            +50835, Brugseweg, 9274,102639072846
+
+     -Ledegem: 128 straten ||  116554,25357058525
+              +180257, Eikenlaan, 63,76326886065712
+              +57459, Provinciebaan, 5369,301910135944
+
+     -Lendelede: 101 straten ||  66858,92852180956
+                +190357, Maaihofpad, 39,14951429260843
+                +53141, Rijksweg, 4650,557804711956
+
+     -Lichtervelde: 138 straten ||  136653,69646602197
+                   +57534, Gildhofweg, 65,52777715460785
+                   +57553, Ketelbuiserstraat, 5322,975288038498
+
+     -Lo-Reninge: 95 straten ||  145135,53919301232
+                 +49245, Gasthuisstraat, 69,6213486062085
+                 +49286, Rabbelaresteenweg, 4981,702491088717
+
+     -Menen: 357 straten ||  217646,89039413023
+            +53284, Ijzerplein, 35,08878584920299
+            +53222, Dronckaertstraat, 6428,009892509688
+
+     -Mesen: 24 straten ||  13395,201082971465
+            +49837, Oud Kerkhofstraat, 42,66977860849569
+            +49834, Nieuw Zeelandersstraat, 2336,722743363201
+
+     -Meulebeke: 169 straten ||  146849,32573553972
+                +58849, Regentiestraat, 21,12933951380116
+                +58829, Oostrozebekestraat, 5142,895481794811
+
+     -Middelkerke: 320 straten ||  286364,14477592614
+                  +55296, Breidelareweg, 13,318122706918926
+                  +55606, Zwarteweg, 10232,69026673401
+
+     -Moorslede: 158 straten ||  158428,00646935732
+                +57695, Memlinglaan, 56,38459309781844
+                +57641, Dadizeelsestraat, 5703,396447279242
+
+     -Nieuwpoort: 175 straten ||  138648,23534374975
+                 +141420, IDYLLENLAAN, 13,113506004729327
+                 +61085, Hemmestraat, 9540,333198272854
+
+     -Oostende: 755 straten ||  373782,2677641206
+               +55835, Hoppestraat, 9,843070352844014
+               +55643, Autoweg A 10, 12109,354012966836
+
+     -Oostkamp: 402 straten ||  306316,72246739396
+               +46848, Jan Palfijnstraat, 29,32558753173415
+               +46888, Kortrijksestraat, 14013,53652997528
+
+     -Oostrozebeke: 107 straten ||  90136,94664751989
+                   +181246, Mottestraat, 53,55209247317509
+                   +58924, Kanaalweg, 5150,242881881952
+
+     -Oudenburg: 192 straten ||  132124,98551323803
+                +56370, Essenlaan, 25,362661723782
+                +56472, Stationsstraat, 4259,90753021915
+
+     -Pittem: 134 straten ||  145751,31591598602
+             +58984, Blekerijstraat, 5,67215169329591
+             +58989, Brugsesteenweg, 8351,557668387191
+
+     -Poperinge: 355 straten ||  392962,8055722912
+                +50092, Palmweg, 30,543255791052413
+                +49880, Blokstraat, 6521,948133009922
+
+     -Roeselare: 740 straten ||  476442,1409372883
+                +58018, Jan Van Eyckstraat, 9,395029615038947
+                +186244, R32, 16866,411082285795
+
+     -Ruiselede: 102 straten ||  115336,6891533088
+                +59116, Cyriel Verhaegheplein, 54,33169682262837
+                +59111, Bruggesteenweg, 6167,806840352647
+
+     -Spiere-Helkijn: 53 straten ||  37524,7037750138
+                     +54632, Gemeenteplein, 45,86413525650035
+                     +54657, Oudenaardseweg, 3345,9845987387357
+
+     -Staden: 220 straten ||  188846,56463608483
+             +58539, Marktplaats, 38,22738785545762
+             +58490, Grote Veldstraat, 6135,5186254873615
+
+     -Tielt: 354 straten ||  288635,16947224544
+            +59432, Polenplein, 29,956484903535276
+            +59255, Deinsesteenweg, 6407,778831239117
+
+     -Torhout: 327 straten ||  206291,16873088764
+              +47115, Bliekstraat, 26,01845389652161
+              +47290, Oostendestraat, 5746,1658491813905
+
+     -Veurne: 260 straten ||  279432,4106344115
+             +166328, Vlasbekjesstraat, 30,1521115162782
+             +61282, Ieperse Steenweg, 6729,497025131759
+
+     -Vleteren: 81 straten ||  110234,71730812197
+               +141426, Canadaweg, 60,71265885806353
+               +50923, Burgweg, 5916,818880965271
+
+     -Waregem: 458 straten ||  316728,1186235921
+              +182443, Kernelleplein, 54,145559837999265
+              +53616, Expresweg, 11400,263759590172
+
+     -Wervik: 222 straten ||  198540,01241746853
+             +50378, Sint Maartensplein, 30,03643748363369
+             +50349, Oude Beselarestraat, 6412,098305631391
+
+     -Wevelgem: 358 straten ||  238488,12942448113
+               +141398, Zilverberkenlaan, 27,803213167269547
+               +54098, Ieperstraat, 5274,403416374956
+
+     -Wielsbeke: 142 straten ||  112180,19197872834
+                +59596, Leiesas, 33,16932494222479
+                +59626, Rijksweg, 6445,926163535865
+
+     -Wingene: 270 straten ||  266562,70718780195
+              +210662, Krommewalstraat, 40,460048801330906
+              +59667, Beernemsteenweg, 5433,19959388733
+
+     -Zedelgem: 335 straten ||  271511,0165613946
+               +183823, Middelbeek, 42,6609824705111
+               +47657, Torhoutsesteenweg, 14907,715138184822
+
+     -Zonnebeke: 185 straten ||  243884,89530961015
+                +50496, Kouterstraat, 57,774396104309375
+                +50477, Ieperstraat, 5978,829424925603
+
+     -Zuienkerke: 72 straten ||  111429,76073178968
+                 +47756, Zakstraat, 43,124957563674926
+                 +47695, Blankenbergse Steenweg, 8806,986851354199
+
+     -Zwevegem: 327 straten ||  293517,91292356106
+               +181394, Zonnebloemstraat, 24,2875563573201
+               +54515, Otegemstraat, 5866,78511836163
+
+StraatInfo Oost-Vlaanderen: 
+     -Aalst: 860 straten ||  479579,52490327746
+            +62272, Werf, 11,028202592796383
+            +61478, Autosnelweg Oostende-Brussel, 24402,692330515583
+
+     †  Aalter werd gefuseerd in 2019  †
+
+     -Aalter: 438 straten ||  454193,79485093395
+             +203270, Aard, 43,84795889680528
+             +203464, Knokkebaan, 17946,646025383197
+
+     -Assenede: 231 straten ||  251200,37903977802
+               +142139, Heistraat, 14,971960677029925
+               +66781, Hollekenstraat, 8178,630862488835
+
+     -Berlare: 222 straten ||  150221,50499223336
+              +141855, Donkerstraatje, 43,995227099248766
+              +64680, Donklaan, 5040,2468214425035
+
+     -Beveren: 561 straten ||  545192,3268615757
+              +171531, Frans Brielsplein, 33,53221088675156
+              +76608, Sint-Antoniusweg, 31601,357257349922
+
+     -Brakel: 315 straten ||  249654,91866624122
+             +75245, Brugstraat, 50,671678152257684
+             +75440, Ronsesestraat, 4546,589712034615
+
+     -Buggenhout: 217 straten ||  118329,25775459177
+                 +64908, Langhuis, 41,33075818661324
+                 +64893, Kasteelstraat, 4675,101636331697
+
+     -De Pinte: 193 straten ||  116275,74509461771
+               +181070, Lindenbulk, 22,91425204086918
+               +68545, Grote steenweg, 7705,845859224195
+
+     †  Deinze werd gefuseerd in 2019  †
+
+     -Deinze: 716 straten ||  631888,1260497941
+             +206216, Baarlekouterweg, 37,936980121281756
+             +206048, Vaart Rechts, 8193,562382990696
+
+     -Denderleeuw: 206 straten ||  89500,43210595066
+                  +62413, Maanstraat, 47,11128072011596
+                  +62464, Steenweg, 4834,454615270115
+
+     -Dendermonde: 429 straten ||  296927,02256447426
+                  +65146, Heldenplein, 38,61439943427596
+                  +65372, Sint-Onolfsdijk, 11002,422683049135
+
+     -Destelbergen: 269 straten ||  167592,02105809972
+                   +68826, Molenhoek, 55,82554394579165
+                   +68713, Dendermondesteenweg, 8251,967700090336
+
+     -Eeklo: 300 straten ||  162663,99102236106
+            +67047, Ledeganckplein, 11,868846360694961
+            +66977, Expresweg N49, 14408,835928652981
+
+     -Erpe-Mere: 267 straten ||  187159,140756643
+                +64457, Groendal_02, 8,426615137447383
+                +64577, Oudenaardsesteenweg, 14092,971828153206
+
+     -Evergem: 453 straten ||  330119,44066549663
+              +195233, Broederhof, 35,456779625077544
+              +69089, Jacques Paryslaan, 23757,322371665243
+
+     -Gavere: 171 straten ||  143990,0471606459
+             +151382, Bareelstraat, 45,99948600084719
+             +69341, Baaigemstraat, 6054,24528413848
+
+     -Gent: 2841 straten ||  1327881,1368426527
+           +71395, Raffinaderijstraatje, 12,918378316423542
+           +70536, John Kennedylaan, 28509,69623028761
+
+     -Geraardsbergen: 374 straten ||  301701,64283515525
+                     +141929, CORDENUITSTRAAT, 8,176010401660811
+                     +62550, Damstraat, 7489,332476388605
+
+     -Haaltert: 164 straten ||  127707,86842319088
+               +62959, Pachterstraat, 88,65990669716628
+               +62940, Lebeke, 3296,588365897639
+
+     -Hamme: 282 straten ||  180987,35482279025
+            +65538, Henneplaan, 66,95187056366439
+            +141791, Rijksweg, 4899,75550350355
+
+     -Herzele: 189 straten ||  165383,13734990303
+              +151049, Steenmakerstraat, 18,54684777170641
+              +63127, Provincieweg, 5738,499842853887
+
+     -Horebeke: 63 straten ||  44999,257698748625
+               +75788, Leugenstraat, 60,54493658819443
+               +75771, Heerweg, 2306,990008832314
+
+     -Kaprijke: 94 straten ||  88262,53180637833
+               +148768, Boslucht, 55,16815190132861
+               +67183, Antwerpse Heirweg, 4853,614479288671
+
+     -Kluisbergen: 130 straten ||  124822,9241386322
+                  +185849, Garenstraat, 51,61882976872501
+                  +75615, Ronse Baan, 4559,119829442022
+
+     †  Knesselare werd gefuseerd in 2019  †
+
+     -Kruibeke: 221 straten ||  141390,30440156357
+               +167078, Ten Wijngaarde, 45,02262936369869
+               +76894, Scheldedijk, 9430,896990404111
+
+     -Kruisem: 322 straten ||  350279,55854522623
+              +204284, De Baerestraat (Dr.Cyriel)(KRU), 60,17697507627925
+              +206274, Autosnelweg E17, 22242,53308619583
+
+     †  Kruishoutem werd gefuseerd in 2019  †
+
+     -Laarne: 154 straten ||  152854,07988666306
+             +65696, Bleekweg, 57,78102618624199
+             +147190, Autosnelweg E17, 24619,298923811202
+
+     -Lebbeke: 174 straten ||  123723,57812150118
+              +65914, Koningin Astridplein, 49,35334486803751
+              +65849, Brusselsesteenweg, 3761,685606651548
+
+     -Lede: 219 straten ||  133138,94299362117
+           +145034, Gentsesteenweg, 27,335705245829274
+           +63222, Grote Steenweg, 8028,085168010174
+
+     -Lierde: 79 straten ||  85558,72437770256
+             +75819, Buurthuisplein, 27,757168167093404
+             +75872, Steenweg, 5622,104382875909
+
+     -Lievegem: 330 straten ||  274754,872195122
+               +205422, Sint-Jozefshof, 58,531427839108645
+               +205269, Grote Baan, 9675,576569457344
+
+     -Lochristi: 244 straten ||  213192,79125629916
+                +72252, Baljuwweg, 67,67265926241048
+                +72392, Oude Veldstraat, 5910,236710016641
+
+     -Lokeren: 462 straten ||  316876,46435450687
+              +76955, Bontinckstraat, 34,035707171731474
+              +77024, Gentse Steenweg, 8984,72668799645
+
+     †  Lovendegem werd gefuseerd in 2019  †
+
+     -Maarkedal: 185 straten ||  176478,63775158077
+                +76001, Nitterveldstraat, 7,287917951266212
+                +76019, Rijksweg, 10927,029451777447
+
+     -Maldegem: 334 straten ||  359934,56544762064
+               +146312, Ballingstraatje, 49,11536814952298
+               +67439, N 49, 13934,788045094738
+
+     -Melle: 143 straten ||  85546,07772629304
+            +72671, Torenvalkstraat, 12,279936986221927
+            +72586, Brusselsesteenweg, 9775,7282489382
+
+     -Merelbeke: 320 straten ||  200420,5321205963
+                +145929, Ter Zate, 28,803158995197364
+                +72782, Hundelgemsesteenweg, 11410,733433337502
+
+     -Moerbeke: 104 straten ||  114043,36449162314
+               +141736, Grensstraat, 12,369140453679035
+               +141734, Expressweg, 7641,613091958527
+
+     -Nazareth: 165 straten ||  173356,19585929878
+               +146082, Brouwerijstraat, 61,83861629331491
+               +73111, Nieuwe Steenweg, 10880,645980189009
+
+     †  Nevele werd gefuseerd in 2019  †
+
+     -Ninove: 449 straten ||  317175,8527928678
+             +63659, Paul De Montplein, 40,66321615784392
+             +63476, Expresweg, 7384,031609615382
+
+     -Oosterzele: 181 straten ||  166489,1330449591
+                 +73372, Eendenweg, 64,90983053183756
+                 +73381, Geraardsbergse steenweg, 12221,072824578509
+
+     -Oudenaarde: 468 straten ||  351230,62362688634
+                 +145866, Minderbroedersplein, 9,403371428753848
+                 +74764, Westerring, 19070,96774070162
+
+     -Ronse: 320 straten ||  183119,61009195106
+            +150689, Ephrem Delmottestraat, 15,364841642019703
+            +74993, Ninoofsesteenweg, 4649,020638759803
+
+     -Sint-Gillis-Waas: 235 straten ||  213766,65793256485
+                       +77400, Kasteelstraat, 22,189822216715886
+                       +145500, Hogewatergangweg, 4360,523423444908
+
+     -Sint-Laureins: 167 straten ||  222674,98896328852
+                    +146697, Ter Vaerent, 42,332085619578834
+                    +67600, Hontseindestraat, 7588,402063581153
+
+     -Sint-Lievens-Houtem: 118 straten ||  97091,74271782748
+                          +141946, Donckershof, 53,07103245558641
+                          +63906, Wettersesteenweg, 4012,8362461410957
+
+     -Sint-Martens-Latem: 146 straten ||  96551,18060200739
+                         +173150, Bijlden Bos, 57,037227524261226
+                         +73657, Xavier De Cocklaan, 4590,516536884262
+
+     -Sint-Niklaas: 575 straten ||  418219,9913758347
+                   +77814, Meikeverstraat, 38,70651342441438
+                   +77836, Nieuwe Baan, 5987,142467172885
+
+     -Stekene: 190 straten ||  183834,48146648784
+              +199942, Voorthoekdreef, 31,93653200092883
+              +78066, Hellestraat, 5228,135946613979
+
+     -Temse: 312 straten ||  199243,67408748157
+            +78195, Bank, 45,50147716487312
+            +78269, Gewestweg N 16, 9431,130603033269
+
+     †  Waarschoot werd gefuseerd in 2019  †
+
+     -Waasmunster: 162 straten ||  133096,2923678395
+                  +141808, Schoonhoudtstraat, 28,075372881352305
+                  +66034, Grote Baan, 5922,692772007048
+
+     -Wachtebeke: 117 straten ||  114972,49572905131
+                 +73781, Kievitstraat, 71,6400426908364
+                 +73788, Langelede, 9406,189837359298
+
+     -Wetteren: 288 straten ||  211393,30166042235
+               +66378, Steenstraat, 41,02212211869456
+               +66382, Tragelweg, 6926,243306657207
+
+     -Wichelen: 128 straten ||  88568,07452216597
+               +66527, Vijverweg, 92,8406669587637
+               +66467, Hulst, 2696,7795150947672
+
+     -Wortegem-Petegem: 113 straten ||  153138,05443961895
+                       +142733, Nedermolen, 78,32817896563967
+                       +75693, Kortrijkstraat, 5848,170426822636
+
+     -Zele: 221 straten ||  160851,48782089018
+           +142539, Molenhof, 42,176098508257915
+           +142524, Europalaan, 11386,147193126142
+
+     -Zelzate: 163 straten ||  110400,24441318422
+              +67765, Kortestraat, 62,497200497463815
+              +141658, Expressweg, 9058,950998525177
+
+     †  Zingem werd gefuseerd in 2019  †
+
+     †  Zomergem werd gefuseerd in 2019  †
+
+     -Zottegem: 514 straten ||  268553,226266373
+               +64024, Graaf van Hornsteeg 3, 15,01915269920552
+               +64006, Europaweg, 13362,497769173613
+
+     -Zulte: 217 straten ||  185630,53266313233
+            +74048, Machelendorp, 7,584903956540146
+            +151757, Leie Linkeroever, 7233,694571791509
+
+     -Zwalm: 148 straten ||  154510,6398506308
+            +141966, MIJNWERKERSPAD, 33,852909181534365
+            +76129, Latemdreef, 3709,295593430683
+
+StraatInfo Limburg: 
+     -Alken: 153 straten ||  106079,84693813817
+            +121272, Valgaersteeg, 54,305045530357155
+            +121266, Steenweg, 5410,288039660307
+
+     -As: 151 straten ||  99681,8050726019
+         +112554, Acaciastraat, 72,23324870400027
+         +112596, Hoogstraat, 3936,932158660851
+
+     -Beringen: 573 straten ||  388979,01163247327
+               +172596, Het Hof, 25,304378438873155
+               +112936, Koolmijnlaan, 7310,1950205861685
+
+     -Bilzen: 575 straten ||  353010,26108192606
+             +121621, St.Amorplein, 32,07384843638454
+             +121575, Rode Kruislaan, 6225,89058778387
+
+     -Bocholt: 222 straten ||  224058,49522029475
+              +197856, Gierisstraat, 55,88890558398191
+              +117687, Kempenstraat, 7275,522103471302
+
+     -Borgloon: 175 straten ||  144364,6232750858
+               +121756, Kapittel, 30,561135699509865
+               +121827, St.-Truidersteenweg, 9646,368078137684
+
+     -Bree: 291 straten ||  239908,84977442925
+           +118006, Veldweg, 36,63014208750456
+           +117991, 't Hasseltkiezel, 12256,33569560935
+
+     -Diepenbeek: 216 straten ||  203096,83668445423
+                 +113455, Weenderikstraat, 59,600225534606096
+                 +113269, Boudewijnlaan, 10817,698113403243
+
+     -Dilsen-Stokkem: 268 straten ||  232628,18615578144
+                     +166418, De Wieke Tuin, 36,39160652717031
+                     +121073, Rijksweg, 21350,23123667693
+
+     -Genk: 814 straten ||  581542,4424422435
+           +113660, Geerstraat, 35,78082080321471
+           +113642, Europalaan, 19071,844587544212
+
+     -Gingelom: 146 straten ||  120367,28646597857
+               +114370, Smisberg, 40,17306866701601
+               +114348, Oude Katsei, 4956,112000413593
+
+     -Halen: 124 straten ||  128782,32320881773
+            +150189, Zagerijplein, 60,44059611525914
+            +114487, Staatsbaan, 6970,8193452128035
+
+     -Ham: 174 straten ||  151451,9300993946
+          +154356, Voornstraat, 40,67804993470103
+          +117153, Zwartenhoekstraat, 8888,786010989734
+
+     -Hamont-Achel: 251 straten ||  184709,14767911145
+                   +178577, Olmstraat, 29,739315353114627
+                   +119900, Beverbeek, 4714,868829207858
+
+     -Hasselt: 802 straten ||  594045,946138986
+              +151708, G. Verdilaan, 29,789800488640115
+              +114895, Luikersteenweg, 10277,128167116773
+
+     -Hechtel-Eksel: 212 straten ||  208903,22272289277
+                    +144935, Gemeenteplein, 42,28450603058572
+                    +141232, Noord Zuid Verbinding, 18876,690450746846
+
+     -Heers: 128 straten ||  108625,67867463233
+            +159965, Elzenhoutlaan, 3,1542835929663036
+            +121965, Steenweg, 8279,009078288243
+
+     -Herk-de-Stad: 168 straten ||  170405,9666673564
+                   +144562, Servaes Vaesplein, 39,43682760756386
+                   +115347, Steenweg, 8870,184963279857
+
+     -Herstappe: 6 straten ||  3019,192517945004
+                +181421, Herstapperveld, 164,630414022656
+                +141140, Hoeise Kassei, 894,8832778324045
+
+     -Heusden-Zolder: 474 straten ||  290002,05450847157
+                     +117212, Brilonplein, 47,58725659386815
+                     +117544, Terlaemen, 8396,215538896635
+
+     -Hoeselt: 155 straten ||  103712,90755957866
+              +121990, Bieskuilstraat, 72,67786422538968
+              +122114, Tongersesteenweg, 3999,912586119605
+
+     -Houthalen-Helchteren: 378 straten ||  281488,0865586154
+                           +120599, Schommelweg, 39,9910354355678
+                           +120410, Grote Baan, 15856,66721809492
+
+     -Kinrooi: 256 straten ||  226275,05221861857
+              +118037, Bellevuestraatje, 59,2682579802402
+              +118267, Weertersteenweg, 8555,954008189341
+
+     -Kortessem: 170 straten ||  118800,48595302504
+                +122219, Oude-Ramenstraat, 27,16042551819588
+                +122248, Tongersesteenweg, 5774,462860615895
+
+     -Lanaken: 398 straten ||  239726,0787401368
+              +181597, In het Kalf, 26,27900230985241
+              +122315, Daalbroekstraat, 6792,181338974104
+
+     -Leopoldsburg: 254 straten ||  141221,70497777264
+                   +115467, Jesperslaan, 69,76724671157433
+                   +141260, Koning Albertlaan, 4587,229270612746
+
+     -Lommel: 520 straten ||  384168,1280683566
+             +118533, Leukerheide, 56,26310926263886
+             +141214, Ringlaan, 15337,564386640826
+
+     -Lummen: 245 straten ||  209559,6749384605
+             +115817, Wetsdreef, 61,20889245893224
+             +115769, Schalbroekstraat, 3865,06605616988
+
+     -Maaseik: 405 straten ||  294034,4039665278
+              +118894, Hepperpoort, 21,002795156050855
+              +118822, Diestersteenweg, 5726,796535571848
+
+     -Maasmechelen: 427 straten ||  273483,3151840507
+                   +123591, Kleine Hulst, 36,094912581553345
+                   +123721, Rijksweg, 16398,096088428814
+
+     †  Meeuwen-Gruitrode werd gefuseerd in 2019  †
+
+     †  Neerpelt werd gefuseerd in 2019  †
+
+     -Nieuwerkerken: 69 straten ||  75853,87363925802
+                    +213472, Paenhuysstraat, 100,87404006802538
+                    +115880, Tegelrijstraat, 4470,239994773384
+
+     †  Opglabbeek werd gefuseerd in 2019  †
+
+     -Oudsbergen: 363 straten ||  321237,5091690603
+                 +204868, Bovenlee, 6,5073608355726025
+                 +205057, Ophovenstraat, 8256,187012163007
+
+     †  Overpelt werd gefuseerd in 2019  †
+
+     -Peer: 304 straten ||  298379,3800885069
+           +119801, Pastoor Lootspleintje, 28,643284396107543
+           +119677, Erperheidestraat, 7716,543453711578
+
+     -Pelt: 547 straten ||  377884,3962553075
+           +206315, Den Akker, 27,21031049946921
+           +206312, Noord Zuid Verbinding, 15416,846110322615
+
+     -Riemst: 263 straten ||  187256,90976375685
+             +182314, Rouw, 44,23951069846534
+             +122859, Tongersesteenweg, 9300,771011488538
+
+     -Sint-Truiden: 490 straten ||  413108,7682957719
+                   +180401, Swaenhoffplein, 29,513632078019498
+                   +116229, Luikersteenweg, 11508,817365454413
+
+     -Tessenderlo: 162 straten ||  224755,15052406208
+                  +141295, Nijverheidsweg, 38,201144547070214
+                  +116500, Industrieweg, 9178,48010215987
+
+     -Tongeren: 486 straten ||  307380,9030459536
+               +141122, Molensteeg, 28,325860247761227
+               +123123, Luikersteenweg, 6210,77880043878
+
+     -Voeren: 168 straten ||  128525,04590135443
+             +150224, Trappen, 23,3582602231439
+             +123939, Veurs, 3435,690991261401
+
+     -Wellen: 89 straten ||  70683,19749737302
+             +123337, Bulsstraat, 38,14716202172776
+             +123333, Bosstraat, 2535,1695828001248
+
+     -Zonhoven: 275 straten ||  185833,22001396524
+               +169814, Boomhommelstraat, 7,79658152729736
+               +116678, Heuveneindeweg, 3602,041009563387
+
+     -Zutendaal: 177 straten ||  111621,94358423
+                +116941, Lemmesplein, 26,93958625860877
+                +116861, Bilzerweg, 2796,4140437407955
+
