@@ -9,7 +9,7 @@ namespace ExportToDB
     public static class Exporters
     {
         static private string _connString = @"Data Source=LAPTOP-DPRRU9CI\SQLEXPRESS1;Initial Catalog=StratenSegmenten;Integrated Security=True";
-       
+        //static private string _connString = @"Data Source=LAPTOP-DPRRU9CI\SQLEXPRESS1;Initial Catalog=TestStratenSegmenten;Integrated Security=True";
         #region Privates
         private static int ExportPunt(Punt p)
         {

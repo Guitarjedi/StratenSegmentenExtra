@@ -11,7 +11,8 @@ namespace ImportFromFiles
     {
         static void Main(string[] args)
         {
-            Rapport.Rapporteer(@"C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\ProgLabo\rapport.txt");
+           Rapport.Rapporteer(@"C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\ProgLabo\rapport.txt");
+           
         }
 
     }
