@@ -15,7 +15,6 @@ namespace ImportFromFiles.Providers
         private Dictionary<int, List<Segment>> _straatIdSegmenten = new Dictionary<int, List<Segment>>();
         private void Read()
         {
-            Console.WriteLine("Reading the data...");
             
             GenericParser reader = new GenericParser(Config.Path + "/" + Config.Data)
             {

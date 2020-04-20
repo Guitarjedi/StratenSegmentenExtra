@@ -1,4 +1,4 @@
-USE [StratenSegmentenReDo];
+USE [StratenSegmenten];
 
 CREATE TABLE Punt(
 	Id int IDENTITY (1,1) NOT NULL,

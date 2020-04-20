@@ -233,7 +233,7 @@ namespace ImportFromDB
 
         public static List<Straat> GetAdjacentStraten(Straat s)
         {
-            var ids = GetAjascentStraatIdsInGemeente(s);
+            var ids = GetAdjacentStraatIdsInGemeente(s);
             var straten = new List<Straat>();
             foreach(var id in ids)
             {
@@ -242,12 +242,12 @@ namespace ImportFromDB
             }
             return straten;
         }
-        private static HashSet<int> GetAjascentStraatIdsInGemeente(Straat s)
+        private static HashSet<int> GetAdjacentStraatIdsInGemeente(Straat s)
         {
             HashSet<int> adjStratenIds = new HashSet<int>();
             List<int> knopen = GetAllKnoopIdsFromStraatId(s.Id);
-            string gemeente = GetGemeenteNaamEnProvincieNaamByGemeenteId(s.GemeenteId).Item1;
-            List<int> straatIds = GetListStraatIdByGemeenteNaam(gemeente);
+            string gemeenteNaam = GetGemeenteNaamEnProvincieNaamByGemeenteId(s.GemeenteId).Item1;
+            List<int> straatIds = GetListStraatIdByGemeenteNaam(gemeenteNaam);
             foreach (var straatId in straatIds)
             {
                 if (straatId != s.Id && !adjStratenIds.Contains(straatId))
